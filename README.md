@@ -1,0 +1,2 @@
+# Predicting-the-score
+I used the Machine learning skill to study the module (which contained hours a student studied and marks he/she scored) to predict the score of a student with respect to the hours he studied. I used Linear Regression to determine the relation between the variables (hours a student studied and marks he/she scored) and used some data visualization to better understand the module. In order to omit the overfitting and underfitting I split the data into test and train datasets. Dataset : http://bit.ly/w-data
